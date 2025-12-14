@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gang-of-four-design-patterns-in-machine-learning-and-recommender-systems/composite-pattern-pro-skladbu-doporucovacich-metod/","noteIcon":""}
+{"dg-publish":true,"permalink":"/gang-of-four-design-patterns-in-machine-learning-and-recommender-systems/composite-pattern-pro-skladbu-doporucovacich-metod/","dgShowLocalGraph":true,"noteIcon":""}
 ---
 
 tags: #composite_pattern #recommender_systems #software_design
