@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/digital-garden/","tags":["gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/digital-garden/","tags":["gardenEntry"],"dgShowLocalGraph":true,"noteIcon":""}
 ---
 
 # Gang of Four Design Patterns in Machine Learning and Recommender Systems
