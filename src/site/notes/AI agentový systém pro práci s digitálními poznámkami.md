@@ -33,6 +33,6 @@ A striktně nastavená pravidla:
 - Pokud není žádná podobná poznámka (similarity > 0.80), vrať prázdné pole relatedNotes: []
 - NIKDY nevymýšlej názvy poznámek
 ```
-Flow byla testována na celkem třech typech materiál - kniha [[Atomic Habbits\|Atomic Habbits]],  [[Gang of Four Design Patterns in Machine Learning and Recommender Systems\|semestrálním projektu do předmětu Návrhové vzory]], odborných článků na téma [[Chytrá domácnost\|chytrá domácnost]].
+Flow byla testována na celkem třech typech materiál - kniha [[Atomic Habbits\|Atomic Habbits]],  [[Gang of Four Design Patterns in Machine Learning and Recommender Systems\|semestrálním projektu do předmětu Návrhové vzory]], odborných článků na téma [[Smart home\|Chytrá domácnost]].
 Následující obrázek představuje průchod celé flow, jež pracuje s Google diskem pro automatizované načítání a ukládání souborů do složky s Obsidian trezorem.
 ![n8n-flow.jpg](/img/user/n8n-flow.jpg)
