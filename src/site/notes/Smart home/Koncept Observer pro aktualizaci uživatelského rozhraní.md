@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/smart-home/koncept-observer-pro-aktualizaci-uzivatelskeho-rozhrani/","dgShowLocalGraph":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/Smart home/Koncept Observer pro aktualizaci uživatelského rozhraní/","dgShowLocalGraph":true,"noteIcon":""}
 ---
 
 tags: #observer #aktualizace #GUI #synchronizace #inteligentni_dum

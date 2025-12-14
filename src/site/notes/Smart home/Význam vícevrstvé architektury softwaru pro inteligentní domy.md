@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/smart-home/vyznam-vicevrstve-architektury-softwaru-pro-inteligentni-domy/","dgShowLocalGraph":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/Smart home/Význam vícevrstvé architektury softwaru pro inteligentní domy/","dgShowLocalGraph":true,"noteIcon":""}
 ---
 
 tags: #software #vicevrstva_architektura #prezentacni_vrstva #aplikacni_logika #datova_vrstva

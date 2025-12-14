@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/smart-home/pouziti-hmi-panelu-a-mobilnich-zarizeni-pro-ovladani-domu/","dgShowLocalGraph":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/Smart home/Použití HMI panelů a mobilních zařízení pro ovládání domu/","dgShowLocalGraph":true,"noteIcon":""}
 ---
 
 tags: #HMI_panel #mobilni_ovladani #tablet #smartphone #inteligentni_dum

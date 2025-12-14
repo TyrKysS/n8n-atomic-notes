@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/smart-home/inteligentni-ovladani-osvetleni-a-zaluzii/","dgShowLocalGraph":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/Smart home/Inteligentní ovládání osvětlení a žaluzií/","dgShowLocalGraph":true,"noteIcon":""}
 ---
 
 tags: #osvetleni #zaluzie #PLC #automatizace #inteligentni_bydleni

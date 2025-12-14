@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gang-of-four-design-patterns-in-machine-learning-and-recommender-systems/nizky-pocet-studii-spojujicich-strojove-uceni-a-softwarove-inzenyrstvi/","noteIcon":""}
+{"dg-publish":true,"permalink":"/Gang of Four Design Patterns in Machine Learning and Recommender Systems/Nízký počet studií spojujících strojové učení a softwarové inženýrství/","noteIcon":""}
 ---
 
 tags: #machine_learning #software_engineering #recommender_systems

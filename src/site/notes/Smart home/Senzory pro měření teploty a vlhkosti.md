@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/smart-home/senzory-pro-mereni-teploty-a-vlhkosti/","dgShowLocalGraph":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/Smart home/Senzory pro měření teploty a vlhkosti/","dgShowLocalGraph":true,"noteIcon":""}
 ---
 
 tags: #dht11 #teplota #vlhkost #senzory

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/smart-home/ovladani-dveri-pomoci-motoru-a-l293-d/","dgShowLocalGraph":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/Smart home/Ovládání dveří pomocí motoru a L293D/","dgShowLocalGraph":true,"noteIcon":""}
 ---
 
 tags: #ovládání_dveří #motor #řadič_l293d

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ai-agentovy-system-pro-praci-s-digitalnimi-poznamkami/","tags":["gardenEntry"],"dgShowLocalGraph":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/AI agentový systém pro práci s digitálními poznámkami/","tags":["gardenEntry"],"dgShowLocalGraph":true,"noteIcon":""}
 ---
 
 Při budování znalostních bází (Knowledge Management) je kritickým bodem škálovatelnost. Manuální propojování poznámek a udržování kontextu, jak to vyžaduje například metoda Zettelkasten, se s rostoucím objemem dat stává neudržitelným. Tento text popisuje technický experiment zaměřený na automatizaci tohoto procesu využitím agentových systémů.

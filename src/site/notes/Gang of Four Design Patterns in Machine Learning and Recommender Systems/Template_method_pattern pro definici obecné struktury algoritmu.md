@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gang-of-four-design-patterns-in-machine-learning-and-recommender-systems/template-method-pattern-pro-definici-obecne-struktury-algoritmu/","noteIcon":""}
+{"dg-publish":true,"permalink":"/Gang of Four Design Patterns in Machine Learning and Recommender Systems/Template_method_pattern pro definici obecné struktury algoritmu/","noteIcon":""}
 ---
 
 tags: #template_method_pattern #software_design #recommender_systems

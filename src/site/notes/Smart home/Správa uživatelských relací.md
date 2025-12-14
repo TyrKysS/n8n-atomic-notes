@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/smart-home/sprava-uzivatelskych-relaci/","dgShowLocalGraph":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/Smart home/Správa uživatelských relací/","dgShowLocalGraph":true,"noteIcon":""}
 ---
 
 tags: #správa_účtů #administrátor #desktopová_aplikace

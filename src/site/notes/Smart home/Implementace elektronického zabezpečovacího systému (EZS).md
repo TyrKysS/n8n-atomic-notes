@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/smart-home/implementace-elektronickeho-zabezpecovaciho-systemu-ezs/","dgShowLocalGraph":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/Smart home/Implementace elektronického zabezpečovacího systému (EZS)/","dgShowLocalGraph":true,"noteIcon":""}
 ---
 
 tags: #EZS #zabezpeceni #biometrika #kamery #dalkove_ovladani

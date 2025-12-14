@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/smart-home/multivlaknove-zpracovani-pohyboveho-senzoru/","dgShowLocalGraph":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/Smart home/Multivláknové zpracování pohybového senzoru/","dgShowLocalGraph":true,"noteIcon":""}
 ---
 
 tags: #multithreading #pohybový_senzor #desktopová_aplikace

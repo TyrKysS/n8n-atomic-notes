@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gang-of-four-design-patterns-in-machine-learning-and-recommender-systems/decorator-pattern-pro-dynamicke-rozsirovani-funkcionality/","noteIcon":""}
+{"dg-publish":true,"permalink":"/Gang of Four Design Patterns in Machine Learning and Recommender Systems/Decorator_pattern pro dynamické rozšiřování funkcionality/","noteIcon":""}
 ---
 
 tags: #decorator_pattern #recommender_systems #software_extension

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/smart-home/vyznam-a-funkce-meteostanice-v-inteligentnim-bydleni/","dgShowLocalGraph":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/Smart home/Význam a funkce meteostanice v inteligentním bydlení/","dgShowLocalGraph":true,"noteIcon":""}
 ---
 
 tags: #meteostanice #inteligentni_bydleni #automatizace #ekologie #ochrana_domu

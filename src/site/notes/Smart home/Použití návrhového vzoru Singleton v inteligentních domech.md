@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/smart-home/pouziti-navrhoveho-vzoru-singleton-v-inteligentnich-domech/","dgShowLocalGraph":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/Smart home/Použití návrhového vzoru Singleton v inteligentních domech/","dgShowLocalGraph":true,"noteIcon":""}
 ---
 
 tags: #navrhovy_vzor #singleton #sprava_zdroju #databaze #inteligentni_dum

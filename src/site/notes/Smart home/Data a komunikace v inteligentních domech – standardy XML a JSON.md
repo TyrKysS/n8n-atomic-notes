@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/smart-home/data-a-komunikace-v-inteligentnich-domech-standardy-xml-a-json/","dgShowLocalGraph":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/Smart home/Data a komunikace v inteligentních domech – standardy XML a JSON/","dgShowLocalGraph":true,"noteIcon":""}
 ---
 
 tags: #XML #JSON #datova_komunikace #inteligentni_dum #standardy

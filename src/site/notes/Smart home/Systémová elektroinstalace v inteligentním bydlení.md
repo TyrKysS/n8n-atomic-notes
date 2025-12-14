@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/smart-home/systemova-elektroinstalace-v-inteligentnim-bydleni/","dgShowLocalGraph":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/Smart home/Systémová elektroinstalace v inteligentním bydlení/","dgShowLocalGraph":true,"noteIcon":""}
 ---
 
 tags: #elektroinstalace #hvezdicova_topologie #sbernicova_topologie #inteligentni_bydleni

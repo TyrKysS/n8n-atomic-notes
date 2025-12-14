@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gang-of-four-design-patterns-in-machine-learning-and-recommender-systems/factory-pattern-v-ml-pro-instanciaci-modelu/","dgShowLocalGraph":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/Gang of Four Design Patterns in Machine Learning and Recommender Systems/Factory_pattern v ML pro instanciaci modelů/","dgShowLocalGraph":true,"noteIcon":""}
 ---
 
 tags: #factory_pattern #machine_learning #recommender_systems

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/smart-home/bezpecnostni-system-s-pir-senzorem/","dgShowLocalGraph":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/Smart home/Bezpečnostní systém s PIR senzorem/","dgShowLocalGraph":true,"noteIcon":""}
 ---
 
 tags: #bezpečnost #pir_senzor #alarm #pohybová_detekce

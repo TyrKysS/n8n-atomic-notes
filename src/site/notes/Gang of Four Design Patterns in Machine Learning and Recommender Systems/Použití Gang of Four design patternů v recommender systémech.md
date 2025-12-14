@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gang-of-four-design-patterns-in-machine-learning-and-recommender-systems/pouziti-gang-of-four-design-patternu-v-recommender-systemech/","noteIcon":""}
+{"dg-publish":true,"permalink":"/Gang of Four Design Patterns in Machine Learning and Recommender Systems/Použití Gang of Four design patternů v recommender systémech/","noteIcon":""}
 ---
 
 tags: #gang_of_four #design_patterns #recommender_systems

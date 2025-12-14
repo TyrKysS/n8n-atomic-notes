@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gang-of-four-design-patterns-in-machine-learning-and-recommender-systems/composite-pattern-pro-skladbu-doporucovacich-metod/","dgShowLocalGraph":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/Gang of Four Design Patterns in Machine Learning and Recommender Systems/Composite_pattern pro skladbu doporučovacích metod/","dgShowLocalGraph":true,"noteIcon":""}
 ---
 
 tags: #composite_pattern #recommender_systems #software_design

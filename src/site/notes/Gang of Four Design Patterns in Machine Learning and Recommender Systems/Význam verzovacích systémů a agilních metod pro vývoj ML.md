@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gang-of-four-design-patterns-in-machine-learning-and-recommender-systems/vyznam-verzovacich-systemu-a-agilnich-metod-pro-vyvoj-ml/","noteIcon":""}
+{"dg-publish":true,"permalink":"/Gang of Four Design Patterns in Machine Learning and Recommender Systems/Význam verzovacích systémů a agilních metod pro vývoj ML/","noteIcon":""}
 ---
 
 tags: #version_control #agile_development #machine_learning

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gang-of-four-design-patterns-in-machine-learning-and-recommender-systems/builder-pattern-pro-komplexni-sestaveni-doporucovacich-pipeline/","noteIcon":""}
+{"dg-publish":true,"permalink":"/Gang of Four Design Patterns in Machine Learning and Recommender Systems/Builder_pattern pro komplexní sestavení doporučovacích pipeline/","noteIcon":""}
 ---
 
 tags: #builder_pattern #recommender_systems #software_design

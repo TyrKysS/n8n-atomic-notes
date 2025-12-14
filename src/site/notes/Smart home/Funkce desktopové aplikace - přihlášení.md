@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/smart-home/funkce-desktopove-aplikace-prihlaseni/","dgShowLocalGraph":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/Smart home/Funkce desktopové aplikace - přihlášení/","dgShowLocalGraph":true,"noteIcon":""}
 ---
 
 tags: #desktopová_aplikace #přihlášení #autentizace

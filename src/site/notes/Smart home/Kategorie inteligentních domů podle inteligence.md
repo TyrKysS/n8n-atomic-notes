@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/smart-home/kategorie-inteligentnich-domu-podle-inteligence/","dgShowLocalGraph":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/Smart home/Kategorie inteligentních domů podle inteligence/","dgShowLocalGraph":true,"noteIcon":""}
 ---
 
 tags: #inteligentni_domy #kategorie #ucici_se_dum #pozorny_dum #propojeny_dum

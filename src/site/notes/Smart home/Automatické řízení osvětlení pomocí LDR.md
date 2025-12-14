@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/smart-home/automaticke-rizeni-osvetleni-pomoci-ldr/","dgShowLocalGraph":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/Smart home/Automatické řízení osvětlení pomocí LDR/","dgShowLocalGraph":true,"noteIcon":""}
 ---
 
 tags: #ldr #automatické_osvětlení #světelný_senzor

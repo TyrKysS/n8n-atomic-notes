@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/smart-home/definice-inteligentniho-domu/","dgShowLocalGraph":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/Smart home/Definice inteligentního domu/","dgShowLocalGraph":true,"noteIcon":""}
 ---
 
 tags: #inteligentni_dum #komfort #ekonomie #ekologie #ridici_systemy

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/smart-home/modelovy-priklad-inteligentniho-bydleni-s-integraci-subsystemu/","dgShowLocalGraph":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/Smart home/Modelový příklad inteligentního bydlení s integrací subsystémů/","dgShowLocalGraph":true,"noteIcon":""}
 ---
 
 tags: #modelovy_priklad #inteligentni_bydleni #PLC #AMX #integrace_sustemu

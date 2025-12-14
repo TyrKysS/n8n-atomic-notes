@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/smart-home/komunikace-arduino-a-desktopove-aplikace/","dgShowLocalGraph":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/Smart home/Komunikace Arduino a desktopové aplikace/","dgShowLocalGraph":true,"noteIcon":""}
 ---
 
 tags: #desktopová_aplikace #csharp #sériový_port #komunikace_arduino

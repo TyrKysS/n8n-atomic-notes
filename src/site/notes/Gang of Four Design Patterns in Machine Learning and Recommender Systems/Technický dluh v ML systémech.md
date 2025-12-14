@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gang-of-four-design-patterns-in-machine-learning-and-recommender-systems/technicky-dluh-v-ml-systemech/","noteIcon":""}
+{"dg-publish":true,"permalink":"/Gang of Four Design Patterns in Machine Learning and Recommender Systems/Technický dluh v ML systémech/","noteIcon":""}
 ---
 
 tags: #technical_debt #machine_learning #software_architecture

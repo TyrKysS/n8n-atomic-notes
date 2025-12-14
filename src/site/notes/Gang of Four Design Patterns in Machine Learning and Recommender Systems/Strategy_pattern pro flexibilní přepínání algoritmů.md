@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gang-of-four-design-patterns-in-machine-learning-and-recommender-systems/strategy-pattern-pro-flexibilni-prepinani-algoritmu/","noteIcon":""}
+{"dg-publish":true,"permalink":"/Gang of Four Design Patterns in Machine Learning and Recommender Systems/Strategy_pattern pro flexibilní přepínání algoritmů/","noteIcon":""}
 ---
 
 tags: #strategy_pattern #algorithm_switching #recommender_systems

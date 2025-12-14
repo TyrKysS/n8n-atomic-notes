@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/smart-home/definice-inteligentniho-domova/","dgShowLocalGraph":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/Smart home/Definice inteligentního domova/","dgShowLocalGraph":true,"noteIcon":""}
 ---
 
 tags: #inteligentní_domov #technologie #uživatelskýkomfort

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gang-of-four-design-patterns-in-machine-learning-and-recommender-systems/nevyhody-zjednoduseneho-notebookoveho-kodovani-v-ml/","noteIcon":""}
+{"dg-publish":true,"permalink":"/Gang of Four Design Patterns in Machine Learning and Recommender Systems/Nevýhody zjednodušeného notebookového kódování v ML/","noteIcon":""}
 ---
 
 tags: #notebook_coding #code_quality #machine_learning

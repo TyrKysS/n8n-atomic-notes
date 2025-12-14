@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/smart-home/princip-a-vyhody-pouziti-maticovych-prepinacu-pro-multimedia/","dgShowLocalGraph":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/Smart home/Princip a výhody použití maticových přepínačů pro multimédia/","dgShowLocalGraph":true,"noteIcon":""}
 ---
 
 tags: #multimedia #maticove_prepinace #audio_video #inteligentni_dum #ovladani

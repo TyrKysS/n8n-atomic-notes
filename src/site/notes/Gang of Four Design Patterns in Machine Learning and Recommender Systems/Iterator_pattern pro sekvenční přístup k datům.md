@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gang-of-four-design-patterns-in-machine-learning-and-recommender-systems/iterator-pattern-pro-sekvencni-pristup-k-datum/","noteIcon":""}
+{"dg-publish":true,"permalink":"/Gang of Four Design Patterns in Machine Learning and Recommender Systems/Iterator_pattern pro sekvenční přístup k datům/","noteIcon":""}
 ---
 
 tags: #iterator_pattern #data_processing #machine_learning

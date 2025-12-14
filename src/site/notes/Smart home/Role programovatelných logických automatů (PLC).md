@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/smart-home/role-programovatelnych-logickych-automatu-plc/","dgShowLocalGraph":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/Smart home/Role programovatelných logických automatů (PLC)/","dgShowLocalGraph":true,"noteIcon":""}
 ---
 
 tags: #PLC #ridici_prvek #inteligentni_dum #automatizace #snimace

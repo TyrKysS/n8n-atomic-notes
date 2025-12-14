@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/smart-home/vyhody-domaci-automatizace/","dgShowLocalGraph":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/Smart home/Výhody domácí automatizace/","dgShowLocalGraph":true,"noteIcon":""}
 ---
 
 tags: #výhody #domácí_automatizace #komfort #energie

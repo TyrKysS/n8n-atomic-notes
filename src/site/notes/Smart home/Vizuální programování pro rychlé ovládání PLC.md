@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/smart-home/vizualni-programovani-pro-rychle-ovladani-plc/","dgShowLocalGraph":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/Smart home/Vizuální programování pro rychlé ovládání PLC/","dgShowLocalGraph":true,"noteIcon":""}
 ---
 
 tags: #vizualni_programovani #PLC #funkcni_bloky #automatizace #inteligentni_bydleni

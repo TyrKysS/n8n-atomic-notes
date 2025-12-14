@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/smart-home/bezpecnost-a-monitoring-v-inteligentnim-dome/","dgShowLocalGraph":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/Smart home/Bezpečnost a monitoring v inteligentním domě/","dgShowLocalGraph":true,"noteIcon":""}
 ---
 
 tags: #bezpecnost #kamery #alarmovy_system #monitoring #inteligentni_dum

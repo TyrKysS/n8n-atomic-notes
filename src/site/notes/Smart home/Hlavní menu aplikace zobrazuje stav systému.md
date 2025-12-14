@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/smart-home/hlavni-menu-aplikace-zobrazuje-stav-systemu/","dgShowLocalGraph":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/Smart home/Hlavní menu aplikace zobrazuje stav systému/","dgShowLocalGraph":true,"noteIcon":""}
 ---
 
 tags: #menu #stav_systému #uživatelská_oprávnění

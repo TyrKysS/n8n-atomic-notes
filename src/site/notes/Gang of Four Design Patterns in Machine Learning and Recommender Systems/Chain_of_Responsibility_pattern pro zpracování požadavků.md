@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gang-of-four-design-patterns-in-machine-learning-and-recommender-systems/chain-of-responsibility-pattern-pro-zpracovani-pozadavku/","noteIcon":""}
+{"dg-publish":true,"permalink":"/Gang of Four Design Patterns in Machine Learning and Recommender Systems/Chain_of_Responsibility_pattern pro zpracování požadavků/","noteIcon":""}
 ---
 
 tags: #chain_of_responsibility #request_handling #recommender_systems

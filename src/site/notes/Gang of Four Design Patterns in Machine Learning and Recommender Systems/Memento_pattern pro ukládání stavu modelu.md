@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gang-of-four-design-patterns-in-machine-learning-and-recommender-systems/memento-pattern-pro-ukladani-stavu-modelu/","noteIcon":""}
+{"dg-publish":true,"permalink":"/Gang of Four Design Patterns in Machine Learning and Recommender Systems/Memento_pattern pro ukládání stavu modelu/","noteIcon":""}
 ---
 
 tags: #memento_pattern #model_checkpoint #machine_learning

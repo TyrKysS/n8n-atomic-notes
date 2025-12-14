@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/smart-home/integrace-biometrickych-systemu-do-inteligentniho-bydleni/","dgShowLocalGraph":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/Smart home/Integrace biometrických systémů do inteligentního bydlení/","dgShowLocalGraph":true,"noteIcon":""}
 ---
 
 tags: #biometrika #pristupovy_system #otisk_prstu #3D_sken #bezkycli_pristup

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/smart-home/infrared-vzdalene-ovladani/","dgShowLocalGraph":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/Smart home/Infrared vzdálené ovládání/","dgShowLocalGraph":true,"noteIcon":""}
 ---
 
 tags: #infrared #vzdálené_ovládání #ir_přijímač #irmote_knihovna

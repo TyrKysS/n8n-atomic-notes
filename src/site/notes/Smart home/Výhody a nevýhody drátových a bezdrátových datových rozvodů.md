@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/smart-home/vyhody-a-nevyhody-dratovych-a-bezdratovych-datovych-rozvodu/","dgShowLocalGraph":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/Smart home/Výhody a nevýhody drátových a bezdrátových datových rozvodů/","dgShowLocalGraph":true,"noteIcon":""}
 ---
 
 tags: #datova_sit #dratova_sit #bezdratova_sit #inteligentni_dum #rozvody

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gang-of-four-design-patterns-in-machine-learning-and-recommender-systems/observer-pattern-pro-automatickou-aktualizaci-na-zmeny/","noteIcon":""}
+{"dg-publish":true,"permalink":"/Gang of Four Design Patterns in Machine Learning and Recommender Systems/Observer_pattern pro automatickou aktualizaci na změny/","noteIcon":""}
 ---
 
 tags: #observer_pattern #event_driven #recommender_systems

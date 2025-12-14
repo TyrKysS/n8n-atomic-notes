@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/smart-home/pouziti-rele-pro-ovladani-lamp/","dgShowLocalGraph":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/Smart home/Použití relé pro ovládání lamp/","dgShowLocalGraph":true,"noteIcon":""}
 ---
 
 tags: #relé #ovládání_osvětlení #arduino

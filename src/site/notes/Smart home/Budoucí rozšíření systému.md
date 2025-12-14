@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/smart-home/budouci-rozsireni-systemu/","dgShowLocalGraph":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/Smart home/Budoucí rozšíření systému/","dgShowLocalGraph":true,"noteIcon":""}
 ---
 
 tags: #budoucnost #rozšíření_systému #sms_ upozornění #bluetooth

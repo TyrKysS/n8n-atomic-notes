@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gang-of-four-design-patterns-in-machine-learning-and-recommender-systems/adapter-pattern-pro-sjednoceni-rozhrani-ruznych-ml-knihoven/","dgShowLocalGraph":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/Gang of Four Design Patterns in Machine Learning and Recommender Systems/Adapter_pattern pro sjednocení rozhraní různých ML knihoven/","dgShowLocalGraph":true,"noteIcon":""}
 ---
 
 tags: #adapter_pattern #machine_learning #software_integration

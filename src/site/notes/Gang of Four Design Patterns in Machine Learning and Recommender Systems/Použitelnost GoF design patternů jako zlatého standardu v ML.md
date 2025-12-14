@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/gang-of-four-design-patterns-in-machine-learning-and-recommender-systems/pouzitelnost-go-f-design-patternu-jako-zlateho-standardu-v-ml/","noteIcon":""}
+{"dg-publish":true,"permalink":"/Gang of Four Design Patterns in Machine Learning and Recommender Systems/Použitelnost GoF design patternů jako zlatého standardu v ML/","noteIcon":""}
 ---
 
 tags: #gang_of_four #software_design #machine_learning

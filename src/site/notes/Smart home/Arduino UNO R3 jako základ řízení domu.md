@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/smart-home/arduino-uno-r3-jako-zaklad-rizeni-domu/","dgShowLocalGraph":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/Smart home/Arduino UNO R3 jako základ řízení domu/","dgShowLocalGraph":true,"noteIcon":""}
 ---
 
 tags: #arduino_uno #mikrokontrolér #řízení_domácnosti

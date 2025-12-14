@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/smart-home/moznosti-ovladani-osvetleni-a-dveri-z-aplikace/","dgShowLocalGraph":true,"noteIcon":""}
+{"dg-publish":true,"permalink":"/Smart home/Možnosti ovládání osvětlení a dveří z aplikace/","dgShowLocalGraph":true,"noteIcon":""}
 ---
 
 tags: #ovládání_osvětlení #ovládání_dveří #desktopová_aplikace
