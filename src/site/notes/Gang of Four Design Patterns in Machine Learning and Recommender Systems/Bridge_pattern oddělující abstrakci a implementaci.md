@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/gang-of-four-design-patterns-in-machine-learning-and-recommender-systems/bridge-pattern-oddelujici-abstrakci-a-implementaci/","noteIcon":""}
+{"dg-publish":true,"permalink":"/gang-of-four-design-patterns-in-machine-learning-and-recommender-systems/bridge-pattern-oddelujici-abstrakci-a-implementaci/","dgShowLocalGraph":true,"noteIcon":""}
 ---
-
 
 tags: #bridge_pattern #software_architecture #recommender_systems
 created: 2025-12-13T19:52:24.360Z
