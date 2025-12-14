@@ -3,27 +3,22 @@
 ---
 
 
-| File                                                                                                                                                                                                                           |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [[Gang of Four Design Patterns in Machine Learning and Recommender Systems/Adapter_pattern pro sjednocení rozhraní různých ML knihoven\|Adapter_pattern pro sjednocení rozhraní různých ML knihoven]]                       |
-| [[Gang of Four Design Patterns in Machine Learning and Recommender Systems/Bridge_pattern oddělující abstrakci a implementaci\|Bridge_pattern oddělující abstrakci a implementaci]]                                         |
-| [[Gang of Four Design Patterns in Machine Learning and Recommender Systems/Builder_pattern pro komplexní sestavení doporučovacích pipeline\|Builder_pattern pro komplexní sestavení doporučovacích pipeline]]               |
-| [[Gang of Four Design Patterns in Machine Learning and Recommender Systems/Chain_of_Responsibility_pattern pro zpracování požadavků\|Chain_of_Responsibility_pattern pro zpracování požadavků]]                             |
-| [[Gang of Four Design Patterns in Machine Learning and Recommender Systems/Command_pattern pro zapouzdření a správu požadavků\|Command_pattern pro zapouzdření a správu požadavků]]                                         |
-| [[Gang of Four Design Patterns in Machine Learning and Recommender Systems/Composite_pattern pro skladbu doporučovacích metod\|Composite_pattern pro skladbu doporučovacích metod]]                                         |
-| [[Gang of Four Design Patterns in Machine Learning and Recommender Systems/Decorator_pattern pro dynamické rozšiřování funkcionality\|Decorator_pattern pro dynamické rozšiřování funkcionality]]                           |
-| [[Gang of Four Design Patterns in Machine Learning and Recommender Systems/Factory_pattern v ML pro instanciaci modelů\|Factory_pattern v ML pro instanciaci modelů]]                                                       |
-| [[Gang of Four Design Patterns in Machine Learning and Recommender Systems/Flyweight_pattern pro snížení paměťové náročnosti\|Flyweight_pattern pro snížení paměťové náročnosti]]                                           |
-| [[Gang of Four Design Patterns in Machine Learning and Recommender Systems/Iterator_pattern pro sekvenční přístup k datům\|Iterator_pattern pro sekvenční přístup k datům]]                                                 |
-| [[Gang of Four Design Patterns in Machine Learning and Recommender Systems/Memento_pattern pro ukládání stavu modelu\|Memento_pattern pro ukládání stavu modelu]]                                                           |
-| [[Gang of Four Design Patterns in Machine Learning and Recommender Systems/Nevýhody zjednodušeného notebookového kódování v ML\|Nevýhody zjednodušeného notebookového kódování v ML]]                                       |
-| [[Gang of Four Design Patterns in Machine Learning and Recommender Systems/Nízký počet studií spojujících strojové učení a softwarové inženýrství\|Nízký počet studií spojujících strojové učení a softwarové inženýrství]] |
-| [[Gang of Four Design Patterns in Machine Learning and Recommender Systems/Observer_pattern pro automatickou aktualizaci na změny\|Observer_pattern pro automatickou aktualizaci na změny]]                                 |
-| [[Gang of Four Design Patterns in Machine Learning and Recommender Systems/Použitelnost GoF design patternů jako zlatého standardu v ML\|Použitelnost GoF design patternů jako zlatého standardu v ML]]                     |
-| [[Gang of Four Design Patterns in Machine Learning and Recommender Systems/Použití Gang of Four design patternů v recommender systémech\|Použití Gang of Four design patternů v recommender systémech]]                     |
-| [[Gang of Four Design Patterns in Machine Learning and Recommender Systems/Strategy_pattern pro flexibilní přepínání algoritmů\|Strategy_pattern pro flexibilní přepínání algoritmů]]                                       |
-| [[Gang of Four Design Patterns in Machine Learning and Recommender Systems/Technický dluh v ML systémech\|Technický dluh v ML systémech]]                                                                                   |
-| [[Gang of Four Design Patterns in Machine Learning and Recommender Systems/Template_method_pattern pro definici obecné struktury algoritmu\|Template_method_pattern pro definici obecné struktury algoritmu]]               |
-| [[Gang of Four Design Patterns in Machine Learning and Recommender Systems/Význam verzovacích systémů a agilních metod pro vývoj ML\|Význam verzovacích systémů a agilních metod pro vývoj ML]]                             |
+| File                                                                                                                                                                               |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Gang of Four Design Patterns in Machine Learning and Recommender Systems/Mezera mezi ML a SW inženýrstvím\|Mezera mezi ML a SW inženýrstvím]]                                 |
+| [[Gang of Four Design Patterns in Machine Learning and Recommender Systems/Technický dluh v ML systémech\|Technický dluh v ML systémech]]                                       |
+| [[Gang of Four Design Patterns in Machine Learning and Recommender Systems/Factory Abstract Factory v recommender systémech\|Factory Abstract Factory v recommender systémech]] |
+| [[Gang of Four Design Patterns in Machine Learning and Recommender Systems/Role designových vzorů v ML\|Role designových vzorů v ML]]                                           |
+| [[Gang of Four Design Patterns in Machine Learning and Recommender Systems/Builder pro komplexní pipeline\|Builder pro komplexní pipeline]]                                     |
+| [[Gang of Four Design Patterns in Machine Learning and Recommender Systems/Adapter pro kompatibilitu knihoven\|Adapter pro kompatibilitu knihoven]]                             |
+| [[Gang of Four Design Patterns in Machine Learning and Recommender Systems/Význam verzovacích a CI nástrojů\|Význam verzovacích a CI nástrojů]]                                 |
+| [[Gang of Four Design Patterns in Machine Learning and Recommender Systems/Composite pro hierarchii doporučovacích metod\|Composite pro hierarchii doporučovacích metod]]       |
+| [[Gang of Four Design Patterns in Machine Learning and Recommender Systems/Decorator pro postprocessing a pravidla byznysu\|Decorator pro postprocessing a pravidla byznysu]]   |
+| [[Gang of Four Design Patterns in Machine Learning and Recommender Systems/Měření časové, paměťové a kognitivní složitosti\|Měření časové, paměťové a kognitivní složitosti]]   |
+| [[Gang of Four Design Patterns in Machine Learning and Recommender Systems/Template Method pro sdílené kroky výpočtu\|Template Method pro sdílené kroky výpočtu]]               |
+| [[Gang of Four Design Patterns in Machine Learning and Recommender Systems/Bridge pro oddělení abstrakce a implementace\|Bridge pro oddělení abstrakce a implementace]]         |
+| [[Gang of Four Design Patterns in Machine Learning and Recommender Systems/Flyweight pro úsporu paměti u velkých datasetů\|Flyweight pro úsporu paměti u velkých datasetů]]     |
+| [[Gang of Four Design Patterns in Machine Learning and Recommender Systems/Strategie pro runtime přepínání algoritmů\|Strategie pro runtime přepínání algoritmů]]               |
+| [[Gang of Four Design Patterns in Machine Learning and Recommender Systems/Proxy pro řízení přístupu, caching a logování\|Proxy pro řízení přístupu, caching a logování]]       |
 
 { .block-language-dataview} 

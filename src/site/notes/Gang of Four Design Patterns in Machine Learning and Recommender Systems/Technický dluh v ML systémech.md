@@ -1,16 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/Gang of Four Design Patterns in Machine Learning and Recommender Systems/Technický dluh v ML systémech/","noteIcon":""}
+{"dg-publish":true,"permalink":"/Gang of Four Design Patterns in Machine Learning and Recommender Systems/Technický dluh v ML systémech/","dgShowLocalGraph":true,"noteIcon":""}
 ---
 
-tags: #technical_debt #machine_learning #software_architecture
-created: 2025-12-13T19:52:24.357Z
+tags: #technical_debt #mlops #software_architecture #sustainable_ai
+created: 2025-12-14T20:43:41.834Z
 
 ---
 # 1. Popis
-Technický dluh ve strojově učených systémech představuje akumulaci neoptimálních implementačních zkratek, které zhoršují budoucí rozvoj a údržbu systému, což je zejména důležité vzhledem ke zrychlujícímu vývoji s AI-asistovaným kódováním.
+Technický dluh v ML systémech vzniká akumulací zkratek a suboptimálních návrhových rozhodnutí, která sice zrychlí vývoj pomocí nástrojů jako AI-asistent pro kódování, ale dlouhodobě zhoršují možnost rozšiřování, ladění, zabezpečení a opakovaného použití komponentů v produkčním prostředí, čímž ohrožují obchodní udržitelnost projektů zaměřených na umělou inteligenci.
 # 2. Reference
-- [[Znečištění kódu v AI systémech\|Znečištění kódu v AI systémech]] (85%)
-- [[Technický dluh a nádržové architektury\|Technický dluh a nádržové architektury]] (82%)
 
 
 Originální soubor - [[gof-and-recommenders.docx-2.pdf]]

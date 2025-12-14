@@ -14,7 +14,7 @@ Flow je postavena na předpokladu, že uživatel pro poznámkování využívat 
 - Musí být vždy v češtině
 - V případě víceslovných tagů, spoj je pomocí "_", aby z toho bylo jedno slov
 ```
-Tento krok z důvodu rychlosti a přesnosti je prováděn pomocí API, konkrétně OpenAI modelem GPT-4.1 mini. Model byl zvolen kvůli svému poměru ceny a výkonu.
+Tento krok z důvodu rychlosti a přesnosti je prováděn pomocí API, konkrétně [OpenAI](https://openai.com) modelem GPT-5 mini. Model byl zvolen kvůli svému poměru ceny a výkonu.
 V druhém kroku jsou jednotlivé poznámky postupně ukládání do vektorové databáze [Qdrant](https://qdrant.tech), pomocí lokálního embedding modelu Qwen3-embedding. Protože se jedná o atomické poznámky, tak nedochází k žádnému rozdělení poznámek. Každá poznámka v sobě nese metadata v podobě:
 ```
 title
