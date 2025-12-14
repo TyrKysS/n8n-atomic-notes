@@ -3,27 +3,27 @@
 ---
 
 # **Gang of Four Design Patterns in Machine**
-| File                                                                                                                                                        |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [[Notes/Factory_pattern v ML pro instanciaci modelů\|Factory_pattern v ML pro instanciaci modelů]]                                                       |
-| [[Notes/Použití Gang of Four design patternů v recommender systémech\|Použití Gang of Four design patternů v recommender systémech]]                     |
-| [[Notes/Nízký počet studií spojujících strojové učení a softwarové inženýrství\|Nízký počet studií spojujících strojové učení a softwarové inženýrství]] |
-| [[Notes/Builder_pattern pro komplexní sestavení doporučovacích pipeline\|Builder_pattern pro komplexní sestavení doporučovacích pipeline]]               |
-| [[Notes/Adapter_pattern pro sjednocení rozhraní různých ML knihoven\|Adapter_pattern pro sjednocení rozhraní různých ML knihoven]]                       |
-| [[Notes/Technický dluh v ML systémech\|Technický dluh v ML systémech]]                                                                                   |
-| [[Notes/Flyweight_pattern pro snížení paměťové náročnosti\|Flyweight_pattern pro snížení paměťové náročnosti]]                                           |
-| [[Notes/Strategy_pattern pro flexibilní přepínání algoritmů\|Strategy_pattern pro flexibilní přepínání algoritmů]]                                       |
-| [[Notes/Decorator_pattern pro dynamické rozšiřování funkcionality\|Decorator_pattern pro dynamické rozšiřování funkcionality]]                           |
-| [[Notes/Memento_pattern pro ukládání stavu modelu\|Memento_pattern pro ukládání stavu modelu]]                                                           |
-| [[Notes/Template_method_pattern pro definici obecné struktury algoritmu\|Template_method_pattern pro definici obecné struktury algoritmu]]               |
-| [[Notes/Iterator_pattern pro sekvenční přístup k datům\|Iterator_pattern pro sekvenční přístup k datům]]                                                 |
-| [[Notes/Bridge_pattern oddělující abstrakci a implementaci\|Bridge_pattern oddělující abstrakci a implementaci]]                                         |
-| [[Notes/Composite_pattern pro skladbu doporučovacích metod\|Composite_pattern pro skladbu doporučovacích metod]]                                         |
-| [[Notes/Command_pattern pro zapouzdření a správu požadavků\|Command_pattern pro zapouzdření a správu požadavků]]                                         |
-| [[Notes/Chain_of_Responsibility_pattern pro zpracování požadavků\|Chain_of_Responsibility_pattern pro zpracování požadavků]]                             |
-| [[Notes/Observer_pattern pro automatickou aktualizaci na změny\|Observer_pattern pro automatickou aktualizaci na změny]]                                 |
-| [[Notes/Nevýhody zjednodušeného notebookového kódování v ML\|Nevýhody zjednodušeného notebookového kódování v ML]]                                       |
-| [[Notes/Význam verzovacích systémů a agilních metod pro vývoj ML\|Význam verzovacích systémů a agilních metod pro vývoj ML]]                             |
-| [[Notes/Použitelnost GoF design patternů jako zlatého standardu v ML\|Použitelnost GoF design patternů jako zlatého standardu v ML]]                     |
+| File                                                                                                                                                                                          |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Gang of Four Design Patterns in Machine/Adapter_pattern pro sjednocení rozhraní různých ML knihoven\|Adapter_pattern pro sjednocení rozhraní různých ML knihoven]]                       |
+| [[Gang of Four Design Patterns in Machine/Bridge_pattern oddělující abstrakci a implementaci\|Bridge_pattern oddělující abstrakci a implementaci]]                                         |
+| [[Gang of Four Design Patterns in Machine/Builder_pattern pro komplexní sestavení doporučovacích pipeline\|Builder_pattern pro komplexní sestavení doporučovacích pipeline]]               |
+| [[Gang of Four Design Patterns in Machine/Chain_of_Responsibility_pattern pro zpracování požadavků\|Chain_of_Responsibility_pattern pro zpracování požadavků]]                             |
+| [[Gang of Four Design Patterns in Machine/Command_pattern pro zapouzdření a správu požadavků\|Command_pattern pro zapouzdření a správu požadavků]]                                         |
+| [[Gang of Four Design Patterns in Machine/Composite_pattern pro skladbu doporučovacích metod\|Composite_pattern pro skladbu doporučovacích metod]]                                         |
+| [[Gang of Four Design Patterns in Machine/Decorator_pattern pro dynamické rozšiřování funkcionality\|Decorator_pattern pro dynamické rozšiřování funkcionality]]                           |
+| [[Gang of Four Design Patterns in Machine/Factory_pattern v ML pro instanciaci modelů\|Factory_pattern v ML pro instanciaci modelů]]                                                       |
+| [[Gang of Four Design Patterns in Machine/Flyweight_pattern pro snížení paměťové náročnosti\|Flyweight_pattern pro snížení paměťové náročnosti]]                                           |
+| [[Gang of Four Design Patterns in Machine/Iterator_pattern pro sekvenční přístup k datům\|Iterator_pattern pro sekvenční přístup k datům]]                                                 |
+| [[Gang of Four Design Patterns in Machine/Memento_pattern pro ukládání stavu modelu\|Memento_pattern pro ukládání stavu modelu]]                                                           |
+| [[Gang of Four Design Patterns in Machine/Nevýhody zjednodušeného notebookového kódování v ML\|Nevýhody zjednodušeného notebookového kódování v ML]]                                       |
+| [[Gang of Four Design Patterns in Machine/Nízký počet studií spojujících strojové učení a softwarové inženýrství\|Nízký počet studií spojujících strojové učení a softwarové inženýrství]] |
+| [[Gang of Four Design Patterns in Machine/Observer_pattern pro automatickou aktualizaci na změny\|Observer_pattern pro automatickou aktualizaci na změny]]                                 |
+| [[Gang of Four Design Patterns in Machine/Použitelnost GoF design patternů jako zlatého standardu v ML\|Použitelnost GoF design patternů jako zlatého standardu v ML]]                     |
+| [[Gang of Four Design Patterns in Machine/Použití Gang of Four design patternů v recommender systémech\|Použití Gang of Four design patternů v recommender systémech]]                     |
+| [[Gang of Four Design Patterns in Machine/Strategy_pattern pro flexibilní přepínání algoritmů\|Strategy_pattern pro flexibilní přepínání algoritmů]]                                       |
+| [[Gang of Four Design Patterns in Machine/Technický dluh v ML systémech\|Technický dluh v ML systémech]]                                                                                   |
+| [[Gang of Four Design Patterns in Machine/Template_method_pattern pro definici obecné struktury algoritmu\|Template_method_pattern pro definici obecné struktury algoritmu]]               |
+| [[Gang of Four Design Patterns in Machine/Význam verzovacích systémů a agilních metod pro vývoj ML\|Význam verzovacích systémů a agilních metod pro vývoj ML]]                             |
 
 { .block-language-dataview} 
