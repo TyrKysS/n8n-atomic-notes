@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/Smart home/","dgShowLocalGraph":true,"noteIcon":""}
 ---
 
+
 | File                                                                                                   |
 | ------------------------------------------------------------------------------------------------------ |
 | [[Smart home/Funkce zabezpečovacích systémů\|Funkce zabezpečovacích systémů]]                       |
