@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/Smart home/","noteIcon":""}
+{"dg-publish":true,"permalink":"/Smart home/","dgShowLocalGraph":true,"noteIcon":""}
 ---
 
 | File                                                                                                   |
